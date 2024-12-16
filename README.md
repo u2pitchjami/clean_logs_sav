@@ -12,12 +12,25 @@
 ## Installation
 
  - Clone the repository
+```bash
+git clone https://github.com/u2pitchjami/clean_logs_sav.git
+```   
+   
  - Create and edit .config.cfg
+```bash
+cd clean_logs_sav
+sudo mv .config.cfg.example .config.cfg
+sudo nano .config.cfg
+```    
    
 ![image](https://github.com/user-attachments/assets/96dfc6a0-a6c6-47fa-9ee3-397cc4322a05)
 
 
  - Create and edit the base.csv file
+```bash
+sudo mv base.csv.example base.csv
+sudo nano base.csv
+```    
    
    ![image](https://github.com/user-attachments/assets/aceb4423-91f3-4baf-b60f-43b7afbdd122)
 
